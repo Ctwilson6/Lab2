@@ -1,0 +1,14 @@
+C:\Users\crims\OneDrive\Documents\repos\Lab2Project\bin\Debug\net8.0\Lab2Project.exe
+C:\Users\crims\OneDrive\Documents\repos\Lab2Project\bin\Debug\net8.0\Lab2Project.deps.json
+C:\Users\crims\OneDrive\Documents\repos\Lab2Project\bin\Debug\net8.0\Lab2Project.runtimeconfig.json
+C:\Users\crims\OneDrive\Documents\repos\Lab2Project\bin\Debug\net8.0\Lab2Project.dll
+C:\Users\crims\OneDrive\Documents\repos\Lab2Project\bin\Debug\net8.0\Lab2Project.pdb
+C:\Users\crims\OneDrive\Documents\repos\Lab2Project\obj\Debug\net8.0\Lab2Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crims\OneDrive\Documents\repos\Lab2Project\obj\Debug\net8.0\Lab2Project.AssemblyInfoInputs.cache
+C:\Users\crims\OneDrive\Documents\repos\Lab2Project\obj\Debug\net8.0\Lab2Project.AssemblyInfo.cs
+C:\Users\crims\OneDrive\Documents\repos\Lab2Project\obj\Debug\net8.0\Lab2Project.csproj.CoreCompileInputs.cache
+C:\Users\crims\OneDrive\Documents\repos\Lab2Project\obj\Debug\net8.0\Lab2Project.dll
+C:\Users\crims\OneDrive\Documents\repos\Lab2Project\obj\Debug\net8.0\refint\Lab2Project.dll
+C:\Users\crims\OneDrive\Documents\repos\Lab2Project\obj\Debug\net8.0\Lab2Project.pdb
+C:\Users\crims\OneDrive\Documents\repos\Lab2Project\obj\Debug\net8.0\Lab2Project.genruntimeconfig.cache
+C:\Users\crims\OneDrive\Documents\repos\Lab2Project\obj\Debug\net8.0\ref\Lab2Project.dll
